@@ -1,4 +1,5 @@
 # dsgn270-a1
+## Bryan Velasco
 ### DSGN 270 Assignment 1 - Agile UX
   
   * *Looking for mobile website in progress...*
@@ -44,4 +45,3 @@ User Story: As a gamer, I want to sign up for the "Xbox Game Pass." So that I ca
   9. User fills out credit card and address informantion and hits "Save"
   10. User clicks "Subscribe"
   11. User is re-directed to home page with a success message
-![image](C:\Users\bryan\Documents\WEBDEv\Assignments\cpnt-270\DSGN 270 Assignment 1-Agile UX Breakdown\dsgn270-a1\Wireflow)
